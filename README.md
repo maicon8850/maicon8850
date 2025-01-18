@@ -17,4 +17,5 @@ System.out.println("Welcome to my GitHub! 😊");
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
-</p
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40" />
+</p>

@@ -9,9 +9,12 @@ System.out.println("Welcome to my GitHub! 😊");
 ---
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-</p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
+</p

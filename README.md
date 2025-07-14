@@ -2,7 +2,7 @@ System.out.println("Welcome to my GitHub! 😊");
 
 ---
 
-👨‍💻 Desenvolvedor Web na [Next Step](https://nextstepsi.com.br/)  
+👨‍💻 Desenvolvedor de Software na [Montreal]([https://nextstepsi.com.br/](https://montreal.com.br/))  
 🎓 Graduando em Sistemas de Informação pela [UFVJM](https://portal.ufvjm.edu.br/)  
 
 

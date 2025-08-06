@@ -22,9 +22,9 @@ System.out.println("Welcome to my GitHub! 😊");
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=azuredevops" alt="Azure DevOps" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
-  <img src="icons/Azure-Dark.svg" alt="Azure" width="40" height="40" />
-  <img src="icons/Idea-Dark.svg" alt="IntelliJ IDEA" width="40" height="40" />
-  <img src="icons/Linux-Dark.svg" alt="Linux" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=azuredevops" alt="Azure DevOps" width="40" height="40" />
 </p>
 
 ---
